@@ -19,8 +19,8 @@ Linux Epoll 多线程简单静态HttpServer
 ## 性能
 - CPU: Intel i5-7500 @ 3.4GHz Core 4
 - Memory 8G
-- webbench 10000 并发连接 10s
-![图片]https://github.com/cruegull/SimpleHttpServer/doc/webbench.png
+- webbench 10000 并发连接 10s  
+![图片](https://github.com/cruegull/SimpleHttpServer/doc/webbench.png)
 - QPS: 2911
 
 ## 使用
